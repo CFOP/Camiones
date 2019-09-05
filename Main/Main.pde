@@ -1,5 +1,6 @@
 Camion c;
 //esto es otro comentario :0 esta ya ahora si esta bien
+//esto es un comentario :)
 void setup(){
   size(700, 500);
   c = new Camion(width/2, height/2, 100 , 50, color(255, 255, 0), 10);
